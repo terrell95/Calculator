@@ -21,5 +21,16 @@ namespace Calcuator2
         {
             throw new NotImplementedException();
         }
+
+        public int Divide(int divide, int numbers)
+        {
+            throw new NotImplementedException();
+        }
+
+
+        public int Exponents(int exponents, int numbers)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
