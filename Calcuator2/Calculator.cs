@@ -32,5 +32,10 @@ namespace Calcuator2
         {
             throw new NotImplementedException();
         }
+
+        public int Factorial(int number, int numbers)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
