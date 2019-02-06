@@ -10,5 +10,10 @@ namespace Calcuator2
         {
             throw new NotImplementedException();
         }
+
+        public int Subtract(int minuend, int subtrahend)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
