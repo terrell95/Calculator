@@ -15,5 +15,11 @@ namespace Calcuator2
         {
             throw new NotImplementedException();
         }
+
+
+        public int Multiply(int multiply, int numbers)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
