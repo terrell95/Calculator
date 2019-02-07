@@ -11,31 +11,35 @@ namespace Calcuator2
             return number1 + number2;
         }
 
-        public int Subtract(int minuend, int subtrahend)
+        public int Subtract(int number1, int number2)
         {
-            throw new NotImplementedException();
+            return number1 - number2;
         }
 
 
-        public int Multiply(int multiply, int numbers)
+        public int Multiply(int number1, int number2)
         {
-            throw new NotImplementedException();
+            return number1 * number2;
         }
 
-        public int Divide(int divide, int numbers)
+        public int Divide(int number1, int number2)
         {
-            throw new NotImplementedException();
+            return number1 / number2;
         }
 
 
-        public int Exponents(int exponents, int numbers)
+        public double Exponents(double number1, double number2)
         {
-            throw new NotImplementedException();
+            return Math.Pow(number1, number2);
         }
 
-        public int Factorial(int number, int numbers)
+        public int Factorial(int number1)
         {
-            throw new NotImplementedException();
+            for (int i = number1 - 1; i > 0; i--)
+            {
+                number1 *= i;
+            }
+            return number1;
         }
     }
 }
