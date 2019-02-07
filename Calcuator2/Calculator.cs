@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Calcuator2
 {
-    class Calculator
+    public class Calculator
     {
-        public int Add(params int[] numbers)
+        public int Add(int number1, int number2)
         {
-            throw new NotImplementedException();
+            return number1 + number2;
         }
 
         public int Subtract(int minuend, int subtrahend)
