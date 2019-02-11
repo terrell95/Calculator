@@ -22,6 +22,7 @@ namespace Calcuator2
             return number1 * number2;
         }
 
+        //Divide Method
         public int Divide(int number1, int number2)
         {
             return number1 / number2;
