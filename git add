@@ -1,0 +1,53 @@
+[33mcommit 879079afd59591055c4f3326904fdf5d656a8693[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: terrell oliver <mroliver1995@aol.com>
+Date:   Thu Feb 7 11:59:46 2019 -0600
+
+    Added subtract test
+
+[33mcommit d25eafd78e6c5c4b52e5af2dc3a66c858760188f[m
+Author: terrell oliver <mroliver1995@aol.com>
+Date:   Wed Feb 6 22:05:36 2019 -0600
+
+    Added add
+
+[33mcommit 60d535ae6deaa9cf5208643fddaa26e8d8da3a52[m
+Author: terrell oliver <mroliver1995@aol.com>
+Date:   Wed Feb 6 12:10:49 2019 -0600
+
+    Added calcuator2.Tests
+
+[33mcommit 770961fdb4d9ac1b728a4dff493b92bf9ba5df9f[m
+Author: terrell oliver <mroliver1995@aol.com>
+Date:   Wed Feb 6 10:46:53 2019 -0600
+
+    Added the factorial method
+
+[33mcommit eadef59d876ecf78b399c2722f06871bfbe2ca8f[m
+Author: terrell oliver <mroliver1995@aol.com>
+Date:   Wed Feb 6 10:45:24 2019 -0600
+
+    Added the divide and exponents method
+
+[33mcommit 253d6b48af04d22247bc1a85fae5d0d0521f2e98[m
+Author: terrell oliver <mroliver1995@aol.com>
+Date:   Wed Feb 6 10:20:24 2019 -0600
+
+    Added Multiply method
+
+[33mcommit 82e803489b7377dbfbe495d5af80d59e48bed0ac[m
+Author: terrell oliver <mroliver1995@aol.com>
+Date:   Wed Feb 6 10:11:54 2019 -0600
+
+    Added Subtract method
+
+[33mcommit afd2c2332d27eaea9518b4554b6150bbc0f096be[m
+Author: terrell oliver <mroliver1995@aol.com>
+Date:   Wed Feb 6 10:10:35 2019 -0600
+
+    Added Caclulator class and Add method
+
+[33mcommit dc7e420a343a498b8fc226e18ce62a0c437ab523[m
+Author: mroli <mroli@DESKTOP-V5ME7UO>
+Date:   Wed Feb 6 10:04:48 2019 -0600
+
+    Add .gitignore and .gitattributes.
